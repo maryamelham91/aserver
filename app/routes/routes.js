@@ -7,6 +7,6 @@
 		res.send(obj.list);
 	 }); 
 
-	 app.post('/listt',obj.listt())
+	 app.post('/listt',obj.listt)
 	
 	}
